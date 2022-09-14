@@ -43,3 +43,4 @@ The proposed framework combines three features (i.e., ConvNets, MKT and EmoBase1
 Please cite the following papers if you use this code.
 
 Yun Yi and Hanli Wang, Multi-modal Learning for Affective Content Analysis in Movies, Multimedia Tools and Applications, 2018, in press, DOI: 10.1007/s11042-018-5662-9.
+
